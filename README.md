@@ -2,7 +2,7 @@
 
 Submitted by: **Marlene Quizhpi Diaz**
 
-**Wordle** is an app that makes users guess the five letter word and keep track of it with resets to try more than one time [TODO] 
+**Wordle** is an app that makes users guess the five letter word and keep track of it with resets to try more than one time
 
 Time spent: **4** hours spent in total
 
@@ -26,13 +26,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
 [Guide]](https://youtu.be/svLlbuu65_0) .
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
